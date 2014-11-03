@@ -7,5 +7,6 @@ class Address {
 	String country
 	
     static constraints = {
+		zip nullable:true
     }
 }
