@@ -44,7 +44,7 @@
 				margin: 2em 1em 1.25em 18em;
 			}
 
-			h2 {
+			h4 {
 				margin-top: 1em;
 				margin-bottom: 0.3em;
 				font-size: 1em;
